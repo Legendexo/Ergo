@@ -45,8 +45,3 @@ The `dataset.csv` training file has been generated with:
 | Training | Validation | Testing |
 |----------|------------|---------|
 ![](https://raw.githubusercontent.com/evilsocket/ergo-pe-av/master/training_cm.png) | ![](https://raw.githubusercontent.com/evilsocket/ergo-pe-av/master/validation_cm.png) | ![](https://raw.githubusercontent.com/evilsocket/ergo-pe-av/master/test_cm.png) |
-
-### License
-
-Made with ♥  by [the dev team](https://github.com/evilsocket/ergo-pe-av/graphs/contributors) and it is released under the GPL 3 license.
-
